@@ -1,5 +1,5 @@
 <h1><img src="https://raw.githubusercontent.com/dan-sazonov/dan-sazonov/main/hi.gif" width="30px"> Hi there!</h1>
-I'm Daniel Sazonov, a beginning full-stack web developer and sport programmer from Moscow, Russia. Currently I'm developing my pet-projects and studying. I'm now working on: see below. "Pinned".<br>
+I'm Daniel Sazonov, a beginning full-stack web developer and sport programmer from Moscow, Russia. Currently I'm developing my pet-projects and studying. I'm now working on: see below "Pinned".<br>
 
 ## 📫 Contact me:
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16> Telegram (preferred):<a href="https://t.me/dan_sazonov"> @dan_sazonov</a> 
