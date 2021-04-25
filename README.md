@@ -53,6 +53,6 @@ I'm Daniel Sazonov, a beginning full-stack web developer and sport programmer 
 
 <h3>📈 GitHub Stats</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan-sazonov&show_icons=true&theme=cobalt&locale=en" alt="dan-sazonov">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan-sazonov&show_icons=true&theme=cobalt&locale=en" alt="dan-sazonov" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan-sazonov&show_icons=true&theme=onedark&locale=en" alt="dan-sazonov">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan-sazonov&show_icons=true&theme=onedark&locale=en" alt="dan-sazonov" />
 </p>
