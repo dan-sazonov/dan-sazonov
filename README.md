@@ -9,8 +9,9 @@
 I'm Daniel Sazonov, a beginning full-stack web developer and sport programmer from Moscow, Russia. Currently I'm developing my pet-projects and studying. I'm now working on: see below "Pinned".<br>
 
 ## 📫 Contact me:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16> Telegram (preferred):<a href="https://t.me/dan_sazonov"> @dan_sazonov</a> 
-- 📩 E-mail: [`p-294803@ya.ru`](mailto:/p-294803@yandex.ru)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16> Telegram (preferred):<a href="https://t.me/dan_sazonov"> @dan_sazonov</a>  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width=16 height=16> VK:<a href="https://vk.com/dan_sazonov"> @dan_sazonov</a> 
+- 📩 E-mail: [`dan_sazonov@vk.com`](mailto:/dan_sazonov@vk.com)
 <br>
 <h2>👨‍💻 My skills</h2>
 <p align="left">
