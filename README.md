@@ -6,7 +6,7 @@
   <a href="https://stackexchange.com/users/19906388/dan-sazonov?tab=accounts" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-brightgreen?logo=stack-overflow" alt="Stack Overflow"></a>
   <a href="https://habr.com/ru/users/dan-sazonov/" target="_blank"><img src="https://img.shields.io/badge/Habr-Profile-brightgreen?logo=habr" alt="Habr"></a>
 </p>
-I'm Daniel Sazonov, a beginning full-stack web developer and sport programmer from Moscow, Russia. Currently I'm developing my pet-projects and studying. I'm now working on: see below "Pinned".<br>
+<p>I'm Daniel Sazonov, a beginning full-stack web developer and sport programmer from Moscow, Russia.</p><p>I'm also enjoy everything about hardware, from Raspberry to AVR. Currently I'm developing my pet-projects and studying, and else I'm the captain of the regional team of the Regular league and the coach of the Junior team of RosCanSat competition.</p><p>I'm now working on: see below "Pinned".</p>
 
 ## 📫 Contact me:
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16> Telegram (preferred):<a href="https://t.me/dan_sazonov"> @dan_sazonov</a>  
