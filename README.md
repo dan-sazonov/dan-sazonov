@@ -24,19 +24,22 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp; 
   <a href="https://sqlite.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="84" height="40"/></a>&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://gulpjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 </p>
 
 <h3>👨‍🎓 I'm studying:</h3>
 <p align="left">
   <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://gulpjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="40" height="40"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pallets/flask" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 </p>
 
 <h3>📌 I'm interested in:</h3>
@@ -45,6 +48,9 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://pugjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/pugjs/pug-logo/master/PNG/pug-final-logo_-colour-128.png" alt="pug" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.vim.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 </p>
 
@@ -53,7 +59,7 @@
   <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" alt="PhpStorm" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/clion/" target="_blank"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/clion/clion.svg" alt="CLion" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://atom.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg" alt="Atom" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/datagrip/" target="_blank"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/datagrip/datagrip.svg" alt="DataGrip" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
