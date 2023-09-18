@@ -58,6 +58,6 @@
 
 <h3>📈 GitHub Stats</h3>
 <p>
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dan-sazonov&theme=onedark" alt="Most using language">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan-sazonov&show_icons=true&theme=onedark&locale=en" alt="Profile stat">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dan-sazonov&theme=onedark" alt="Most using language">
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dan-sazonov&show_icons=true&theme=onedark&locale=en" alt="Profile stat">
 </p>
