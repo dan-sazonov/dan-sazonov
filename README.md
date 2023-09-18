@@ -8,10 +8,12 @@
 </p>
 <p>I'm Dan Sazonov, a beginning full-stack web developer and sport programmer from St. Petersburg, Russia.</p><p>Also enjoy everything about hardware, from Raspberry to AVR. Currently I'm developing my pet-projects and studying at SUAI.</p><p>I'm now working on: see below "Pinned".</p>
 
-## 📫 Contact me:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16> Telegram (preferred):<a href="https://t.me/dan_sazonov"> @dan_sazonov</a>  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width=16 height=16> VK:<a href="https://vk.com/dan_sazonov"> @dan_sazonov</a> 
-- 📩 E-mail: [`dan_sazonov@vk.com`](mailto:/dan_sazonov@vk.com)
+<h2>📫 Contact me:</h2>
+<ul>
+<li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16> Telegram (preferred):<a href="https://t.me/dan_sazonov"> @dan_sazonov</a></li>
+<li><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width=16 height=16> VK:<a href="https://vk.com/dan_sazonov"> @dan_sazonov</a></li>
+<li>📩 E-mail: <a href="mailto:/dan_sazonov@vk.com"><code>dan_sazonov@vk.com</code></a></li>
+</ul>
 <br>
 <h2>👨‍💻 My skills</h2>
 <p align="left">
@@ -56,7 +58,8 @@
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
 
-<h3>📈 GitHub Stats</h3>
+<br>
+<h2>📈 GitHub Stats</h2>
 <p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dan-sazonov&theme=onedark" alt="Most using language">
   &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dan-sazonov&show_icons=true&theme=onedark&locale=en" alt="Profile stat">
