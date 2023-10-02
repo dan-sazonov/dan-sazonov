@@ -1,4 +1,5 @@
-<h1><img src="https://raw.githubusercontent.com/dan-sazonov/dan-sazonov/main/hi.gif" width="30px" height="30px" alt=""> Hi there!</h1>
+<h1>👋 Hi there!</h1>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dan-sazonov&label=Profile%20views&color=0e75b6&style=flat" alt="dan-sazonov">
   <a href="https://www.codewars.com/users/dan-sazonov" target="_blank"><img src="https://img.shields.io/badge/Codewars-Profile-brightgreen?logo=codewars" alt="Codewars"></a>
