@@ -7,12 +7,12 @@
   <a href="https://stackexchange.com/users/19906388/dan-sazonov?tab=accounts" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-brightgreen?logo=stack-overflow" alt="Stack Overflow"></a>
   <a href="https://habr.com/ru/users/dan-sazonov/" target="_blank"><img src="https://img.shields.io/badge/Habr-Profile-brightgreen?logo=habr" alt="Habr"></a>
 </p>
-<p>I'm Dan Sazonov, a beginning full-stack web developer and sport programmer from St. Petersburg, Russia.</p><p>Also enjoy everything about hardware, from Raspberry to AVR. Currently I'm developing my pet-projects and studying at SUAI.</p><p>I'm now working on: see below "Pinned".</p>
+<p>I'm Dan Sazonov, a beginning full-stack web developer and sport programmer from St. Petersburg, Russia.</p><p>Also enjoy everything about hardware, from Raspberry to AVR. Currently, I'm developing my pet-projects and studying at SUAI.</p><p>I'm now working on: see below "Pinned".</p>
 
 <h2>📫 Contact me:</h2>
 <ul>
-<li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16> Telegram (preferred):<a href="https://t.me/dan_sazonov"> @dan_sazonov</a></li>
-<li><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width=16 height=16> VK:<a href="https://vk.com/dan_sazonov"> @dan_sazonov</a></li>
+<li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 alt="Telegram icon"> Telegram (preferred):<a href="https://t.me/dan_sazonov"> @dan_sazonov</a></li>
+<li><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width=16 height=16 alt="vkontakte icon"> VK:<a href="https://vk.com/dan_sazonov"> @dan_sazonov</a></li>
 <li>📩 E-mail: <a href="mailto:/dan_sazonov@vk.com"><code>dan_sazonov@vk.com</code></a></li>
 </ul>
 <br>
@@ -68,6 +68,6 @@
 <br>
 <h2>📈 GitHub Stats</h2>
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dan-sazonov&theme=onedark" alt="Most using language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dan-sazonov&theme=onedark" alt="Most using language">
   &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dan-sazonov&show_icons=true&theme=onedark&locale=en" alt="Profile stat">
 </p>
