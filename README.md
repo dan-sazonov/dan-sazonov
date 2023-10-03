@@ -1,6 +1,6 @@
 <h1>👋 Hi there!</h1>
 
-<p align="left"> 
+<p> 
   <img src="https://komarev.com/ghpvc/?username=dan-sazonov&label=Profile%20views&color=0e75b6&style=flat" alt="dan-sazonov">
   <a href="https://www.codewars.com/users/dan-sazonov" target="_blank"><img src="https://img.shields.io/badge/Codewars-Profile-brightgreen?logo=codewars" alt="Codewars"></a>
   <a href="https://codepen.io/dan-sazonov" target="_blank"><img src="https://img.shields.io/badge/Codepen-Profile-brightgreen?logo=codepen" alt="Codepen"></a>
@@ -14,13 +14,14 @@
 
 <h2>📫 Contact me:</h2>
 <ul>
-<li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 alt="Telegram icon"> Telegram (preferred):<a href="https://t.me/dan_sazonov"> @dan_sazonov</a></li>
-<li><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width=16 height=16 alt="vkontakte icon"> VK:<a href="https://vk.com/dan_sazonov"> @dan_sazonov</a></li>
-<li>📩 E-mail: <a href="mailto:/dan_sazonov@vk.com"><code>dan_sazonov@vk.com</code></a></li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 alt="Telegram icon"> Telegram (preferred):<a href="https://t.me/dan_sazonov"> @dan_sazonov</a></li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width=16 height=16 alt="vkontakte icon"> VK:<a href="https://vk.com/dan_sazonov"> @dan_sazonov</a></li>
+    <li>📩 E-mail: <a href="mailto:/dan_sazonov@vk.com"><code>dan_sazonov@vk.com</code></a></li>
 </ul>
 <br>
+
 <h2>👨‍💻 My skills</h2>
-<p align="left">
+<p>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
@@ -35,7 +36,7 @@
 </p>
 
 <h3>👨‍🎓 I'm studying:</h3>
-<p align="left">
+<p>
   <a href="https://babeljs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://webpack.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
@@ -47,7 +48,7 @@
 </p>
 
 <h3>📌 I'm interested in:</h3>
-<p align="left">
+<p>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
@@ -59,7 +60,7 @@
 </p>
 
 <h3>🔧 I'm using:</h3>
-<p align="left">
+<p>
   <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/phpstorm/phpstorm.svg" alt="PhpStorm" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/pycharm/pycharm.svg" alt="PyCharm" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/clion/" target="_blank"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/clion/clion.svg" alt="CLion" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
