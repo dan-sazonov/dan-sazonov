@@ -7,7 +7,10 @@
   <a href="https://stackexchange.com/users/19906388/dan-sazonov?tab=accounts" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-brightgreen?logo=stack-overflow" alt="Stack Overflow"></a>
   <a href="https://habr.com/ru/users/dan-sazonov/" target="_blank"><img src="https://img.shields.io/badge/Habr-Profile-brightgreen?logo=habr" alt="Habr"></a>
 </p>
-<p>I'm Dan Sazonov, a beginning full-stack web developer and sport programmer from St. Petersburg, Russia.</p><p>Also enjoy everything about hardware, from Raspberry to AVR. Currently, I'm developing my pet-projects and studying at SUAI.</p><p>I'm now working on: see below "Pinned".</p>
+
+<p>I am Dan Sazonov, an aspiring full-stack web developer and sports programmer from St. Petersburg, Russia.</p>
+<p>Also, fond of everything related to hardware, from Raspberry to AVR. I am currently developing my pet projects and studying at SUAI to become an infocommunication technology engineer.</p>
+<p>I'm now working on: see below "Pinned"</p>
 
 <h2>📫 Contact me:</h2>
 <ul>
