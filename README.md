@@ -32,30 +32,33 @@
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://gulpjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://webpack.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://sass-lang.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 </p>
 
 <h3>👨‍🎓 I'm studying:</h3>
 <p>
   <a href="https://babeljs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://webpack.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pallets/flask" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://github.com/encode/django-rest-framework/blob/0f39e0124d358b0098261f070175fa8e0359b739/docs/img/logo.png" alt="django rest framework" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
 <h3>📌 I'm interested in:</h3>
 <p>
+  <a href="https://github.com/pallets/flask" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.nginx.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://pugjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/pugjs/pug-logo/master/PNG/pug-final-logo_-colour-128.png" alt="pug" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.vim.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://redis.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
 </p>
 
