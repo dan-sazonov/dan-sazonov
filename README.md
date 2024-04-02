@@ -8,8 +8,10 @@
   <a href="https://habr.com/ru/users/dan-sazonov/" target="_blank"><img src="https://img.shields.io/badge/Habr-Profile-brightgreen?logo=habr" alt="Habr"></a>
 </p>
 
-<p>I am Dan Sazonov, an aspiring full-stack web developer and sports programmer from St. Petersburg, Russia.</p>
-<p>Also, fond of everything related to hardware, from Raspberry to AVR. I am currently developing my pet projects and studying at SUAI to become an infocommunication technology engineer.</p>
+<p>I am Dan Sazonov, full-stack web developer and sports programmer from St. Petersburg, Russia</p>
+<p>💼 CEO of @Nordwibe. We create an application for renting housing together with new friends</p>
+<p>💻 Also, fond of fintech and everything related to hardware, from Raspberry to AVR</p>
+<p>🎓 I am currently developing my pet projects and studying at SUAI to become an infocommunication technology engineer.</p>
 <p>I'm now working on: see below "Pinned"</p>
 
 <h2>📫 Contact me:</h2>
