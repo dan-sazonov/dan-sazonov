@@ -5,11 +5,10 @@
   <a href="https://www.codewars.com/users/dan-sazonov" target="_blank"><img src="https://img.shields.io/badge/Codewars-Profile-brightgreen?logo=codewars" alt="Codewars"></a>
   <a href="https://codepen.io/dan-sazonov" target="_blank"><img src="https://img.shields.io/badge/Codepen-Profile-brightgreen?logo=codepen" alt="Codepen"></a>
   <a href="https://stackexchange.com/users/19906388/dan-sazonov?tab=accounts" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-brightgreen?logo=stack-overflow" alt="Stack Overflow"></a>
-  <a href="https://habr.com/ru/users/dan-sazonov/" target="_blank"><img src="https://img.shields.io/badge/Habr-Profile-brightgreen?logo=habr" alt="Habr"></a>
 </p>
 
 <p>I am Dan Sazonov, full-stack web developer and sports programmer from St. Petersburg, Russia</p>
-<p>💼 CEO of @Nordwibe. We create an application for renting housing together with new friends</p>
+<p>💼 Creating @Nordwibe. We are making an application for renting housing together with new friends</p>
 <p>💻 Also, fond of fintech and everything related to hardware, from Raspberry to AVR</p>
 <p>🎓 I am currently developing my pet projects and studying at SUAI to become an infocommunication technology engineer.</p>
 <p>I'm now working on: see below "Pinned"</p>
@@ -49,6 +48,7 @@
   <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://github.com/encode/django-rest-framework/blob/0f39e0124d358b0098261f070175fa8e0359b739/docs/img/logo.png" alt="django rest framework" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" alt="java" width="40" height="40"/></a>
 </p>
 
 <h3>📌 I'm interested in:</h3>
