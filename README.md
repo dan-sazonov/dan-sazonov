@@ -7,11 +7,11 @@
   <a href="https://stackexchange.com/users/19906388/dan-sazonov?tab=accounts" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-brightgreen?logo=stack-overflow" alt="Stack Overflow"></a>
 </p>
 
-<p>I am Dan Sazonov, full-stack web developer and sports programmer from St. Petersburg, Russia</p>
+<p>I am Dan Sazonov, full-stack web developer and ex-sports programmer from St. Petersburg, Russia</p>
 <p>💼 Creating @Nordwibe. We are making an application for renting housing together with new friends</p>
 <p>💻 Also, fond of fintech and everything related to hardware, from Raspberry to AVR</p>
 <p>🎓 I am currently developing my pet projects and studying at SUAI to become an infocommunication technology engineer.</p>
-<p>I'm now working on: see below "Pinned"</p>
+<p>Most of what I'm working on now is private, so the repositories tab and stats are so boring ¯\_(ツ)_/¯</p>
 
 <h2>📫 Contact me:</h2>
 <ul>
